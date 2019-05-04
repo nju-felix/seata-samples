@@ -49,11 +49,11 @@
         <cglib.version>3.1</cglib.version>
         <aopalliance.version>1.0</aopalliance.version>
         <zkclient.version>0.10</zkclient.version>
-        <dubbo.registry.nacos>0.0.2</dubbo.registry.nacos>
+        <dubbo.registry.nacos>1.0.0</dubbo.registry.nacos>
         <spring-context-support.version>1.0.2</spring-context-support.version>
         <testng.version>6.4</testng.version>
         <spring.version>5.1.3.RELEASE</spring.version>
-        <mysql-connector.version>5.1.31</mysql-connector.version>
+        <mysql-connector.version>8.0.11</mysql-connector.version>
         <curator.version>4.1.0</curator.version>
     </properties>
     <modules>
